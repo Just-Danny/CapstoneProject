@@ -1,0 +1,78 @@
+
+  .mank{
+    font-family: "Mank";
+    src: url("fonts/MankSans.ttf") format("truetype");
+  }
+  .nav-link{
+    color: orange !important;
+  }
+  .active{
+    color:white !important;
+  }
+  a{
+    font-size: 3em;
+  }
+.border-bottom1{
+    padding: 80px;
+}
+.border-bottom2{
+  padding-top: 80px;
+}
+.border-bottom3{
+  padding: 5em;
+}
+.border-bottom{
+  padding: 80px;
+  border-color: white !important;
+}
+
+.filter{
+  color: orange !important;
+}
+.table{
+  background-color: orange;
+}
+.sizeFix{
+    padding-top: 2em;
+height: 36em;
+}
+.navbar{
+  border-bottom: solid black .1em;
+}
+.sidebar{
+  color: orange !important;
+  font-size: 2.2em;
+}
+.list-group-item{
+  top: 3em !important;
+  background-color: black !important;
+}
+/*Sets scrollbar on the table*/
+.table-responsive{
+    overflow-y:auto !important;
+    overflow-x: hidden !important;
+    max-height: 29em !important;
+}
+.align-middle{
+  font-size: 2em;
+}
+p{
+  font-size: 1.5em;
+}
+.move{
+  top: 9.5em !important;
+}
+
+.move2{
+  top: 0.4em !important;
+}
+
+/*fixes position and size of images in the slideshows on the index page*/
+.picFix{
+  position: relative;
+  height: 20em !important;
+  width: 20em !important;
+}
+.bgColors{
+  background-color: rgb(95, 95, 95);
+}
